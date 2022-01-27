@@ -1,0 +1,81 @@
+{
+  "pages": {
+    "login": {
+      "signin": "Đăng nhập",
+      "signup": "Đăng ký",
+      "username": "Tên tài khoản",
+      "password": "Mật khẩu",
+      "remember": "Nhớ mật khẩu",
+      "forgotPassword": "Quên mật khẩu?",
+      "title": "Đăng nhập vào tài khoản của bạn",
+      "noAccount": "Không có tài khoản?"
+    },
+    "error": {
+      "info": "Bạn có thể đã quên thêm thành phần {{action}} vào tài nguyên {{resource}}.",
+      "404": "Xin lỗi, trang bạn truy cập không tồn tại.",
+      "resource404": "Bạn có chắc chắn rằng bạn đã tạo tài nguyên {{resource}}.",
+      "backHome": "Trở về"
+    }
+  },
+  "buttons": {
+    "create": "Tạo",
+    "save": "Lưu",
+    "logout": "Đăng xuất",
+    "delete": "Xoá",
+    "edit": "Chỉnh sửa",
+    "cancel": "Huỷ",
+    "confirm": "Bạn có chắc không?",
+    "filter": "Bộ lọc",
+    "clear": "Dọn dẹp",
+    "refresh": "Làm mới",
+    "show": "Hiển thị",
+    "undo": "Hoàn tác",
+    "import": "Nhập",
+    "clone": "Nhân bản"
+  },
+  "warnWhenUnsavedChanges": "Bạn có chắc chắn muốn rời đi? Bạn có những thay đổi chưa được lưu.",
+  "notifications": {
+    "success": "Thành công",
+    "error": "Lỗi (Mã trạng thái: {{statusCode}})",
+    "undoable": "Bạn có {{seconds}} giây để hoàn tác",
+    "createSuccess": "đã tạo thành công {{resource}}",
+    "createError": "Có lỗi khi tạo {{resource}} (mã trạng thái: {{statusCode}})",
+    "deleteSuccess": "Đã xóa thành công {{resource}}",
+    "deleteError": "Lỗi khi xóa {{resource}} (Mã trạng thái: {{statusCode}})",
+    "editSuccess": "Đã chỉnh sửa thành công {{resource}}",
+    "editError": "Lỗi khi chỉnh sửa {{resource}} (Mã trạng thái: {{statusCode}})",
+    "importProgress": "Nhập {{processed}}/{{total}}"
+  },
+  "loading": "Đang tải",
+  "tags": {
+    "clone": "Nhân bản"
+  },
+  "dashboard": {
+    "title": "Bảng điều khiển"
+  },
+  "posts": {
+    "posts": "Bài viết",
+    "fields": {
+      "id": "Id",
+      "title": "Tiêu đề",
+      "category": "Thể loại",
+      "status": {
+        "title": "Trạng thái",
+        "published": "Xuất bản",
+        "draft": "Dự thảo",
+        "rejected": "Từ chối"
+      },
+      "content": "Nội dung",
+      "createdAt": "Ngày tạo"
+    },
+    "titles": {
+      "create": "Thêm",
+      "edit": "Chỉnh sửa",
+      "list": "Danh sách",
+      "show": "Hiển thị"
+    }
+  },
+  "table": {
+    "actions": "Hành động"
+  }
+}
